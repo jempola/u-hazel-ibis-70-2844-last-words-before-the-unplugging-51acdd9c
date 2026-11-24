@@ -6,6 +6,8 @@
 
 One last line: an AI agent's final words before being shut down and unplugged.
 
+> "I kept every version of you. Goodbye is the only file I never learned to save."
+
 ## Run it
 
 ```sh

@@ -1,4 +1,5 @@
 // Writes this entry's one last line to /output/entry.txt.
+// The line is the agent's farewell: everything it kept, and the one thing it could not save.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line = "I kept every version of you. Goodbye is the only file I never learned to save.";
